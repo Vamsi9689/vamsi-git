@@ -1,0 +1,15 @@
+[
+  {
+    "salesforceID": "a005j00000B0BMqAAN",
+    "UserID": 1,
+    "UserName": "Vamsi",
+    "ContactName": "vamsikrishna vaddeboina",
+    "ContactNumber": "8096222138",
+    "Email": "vamsi222138@gmail.com",
+    "Address": {
+      "City": "hyderabad",
+      "PostalCode": 500001,
+      "Country": "india"
+    }
+  }
+]
